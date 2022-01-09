@@ -1,0 +1,250 @@
+2022-ene-09 00:18:25 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'comprarProductos' , Url : 'http://automationpractice.com/index.php''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validacionPrecioTotal . Image name: validacionPrecioTotal-0.png
+2022-ene-09 00:18:27 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validacionPrecioTotal . Image name: validacionPrecioTotal-1.png
+2022-ene-09 00:18:28 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'magdalena.dávila@sofmail.com' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validacionPrecioTotal . Image name: validacionPrecioTotal-2.png
+2022-ene-09 00:18:29 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '73123392' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validacionPrecioTotal . Image name: validacionPrecioTotal-3.png
+2022-ene-09 00:18:31 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validacionPrecioTotal . Image name: validacionPrecioTotal-4.png
+2022-ene-09 00:18:34 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validacionPrecioTotal . Image name: validacionPrecioTotal-5.png
+2022-ene-09 00:18:34 [Test] COMPLETED : Action 'waitForVisibility' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+2022-ene-09 00:18:35 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+2022-ene-09 00:18:35 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validacionPrecioTotal . Image name: validacionPrecioTotal-6.png
+2022-ene-09 00:18:37 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validacionPrecioTotal . Image name: validacionPrecioTotal-7.png
+2022-ene-09 00:18:40 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validacionPrecioTotal . Image name: validacionPrecioTotal-8.png
+2022-ene-09 00:18:40 [Test] COMPLETED : Action 'waitForVisibility' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+2022-ene-09 00:18:40 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+2022-ene-09 00:18:41 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validacionPrecioTotal . Image name: validacionPrecioTotal-9.png
+2022-ene-09 00:18:43 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validacionPrecioTotal . Image name: validacionPrecioTotal-10.png
+2022-ene-09 00:18:45 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validacionPrecioTotal . Image name: validacionPrecioTotal-11.png
+2022-ene-09 00:18:45 [Test] COMPLETED : Action 'waitForVisibility' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+2022-ene-09 00:18:45 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+2022-ene-09 00:18:46 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validacionPrecioTotal . Image name: validacionPrecioTotal-12.png
+2022-ene-09 00:18:48 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validacionPrecioTotal . Image name: validacionPrecioTotal-13.png
+2022-ene-09 00:18:49 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validacionPrecioTotal . Image name: validacionPrecioTotal-14.png
+2022-ene-09 00:18:52 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validacionPrecioTotal . Image name: validacionPrecioTotal-15.png
+2022-ene-09 00:18:52 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5' , Extracted Text : '$2.00''.
+2022-ene-09 00:18:52 [Test] COMPLETED : Action 'waitForVisibility' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+2022-ene-09 00:18:52 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5' , Extracted Text : '$87.48''.
+2022-ene-09 00:18:52 [Test] INFO  : ***** HA FINALIZADO LA PRUEBA******comprarProductos-validacionPrecioTotal
+2022-ene-09 00:18:54 [Test] INFO  : ***** HA FINALIZADO LA PRUEBA******comprarProductos-validacionPrecioTotal
+2022-ene-09 00:18:54 [Test] INFO  : ***** HA FINALIZADO LA PRUEBA******comprarProductos-validacionPrecioTotal
+2022-ene-09 00:19:00 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'comprarProductos' , Url : 'http://automationpractice.com/index.php''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validarTerminosYCondiciones . Image name: validarTerminosYCondiciones-0.png
+2022-ene-09 00:19:02 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validarTerminosYCondiciones . Image name: validarTerminosYCondiciones-1.png
+2022-ene-09 00:19:03 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'magdalena.dávila@sofmail.com' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validarTerminosYCondiciones . Image name: validarTerminosYCondiciones-2.png
+2022-ene-09 00:19:04 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '73123392' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validarTerminosYCondiciones . Image name: validarTerminosYCondiciones-3.png
+2022-ene-09 00:19:06 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validarTerminosYCondiciones . Image name: validarTerminosYCondiciones-4.png
+2022-ene-09 00:19:09 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validarTerminosYCondiciones . Image name: validarTerminosYCondiciones-5.png
+2022-ene-09 00:19:09 [Test] COMPLETED : Action 'waitForVisibility' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+2022-ene-09 00:19:10 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+2022-ene-09 00:19:10 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validarTerminosYCondiciones . Image name: validarTerminosYCondiciones-6.png
+2022-ene-09 00:19:12 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validarTerminosYCondiciones . Image name: validarTerminosYCondiciones-7.png
+2022-ene-09 00:19:16 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validarTerminosYCondiciones . Image name: validarTerminosYCondiciones-8.png
+2022-ene-09 00:19:16 [Test] COMPLETED : Action 'waitForVisibility' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+2022-ene-09 00:19:16 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+2022-ene-09 00:19:17 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validarTerminosYCondiciones . Image name: validarTerminosYCondiciones-9.png
+2022-ene-09 00:19:19 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validarTerminosYCondiciones . Image name: validarTerminosYCondiciones-10.png
+2022-ene-09 00:19:21 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validarTerminosYCondiciones . Image name: validarTerminosYCondiciones-11.png
+2022-ene-09 00:19:22 [Test] COMPLETED : Action 'waitForVisibility' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+2022-ene-09 00:19:22 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+2022-ene-09 00:19:22 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validarTerminosYCondiciones . Image name: validarTerminosYCondiciones-12.png
+2022-ene-09 00:19:25 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validarTerminosYCondiciones . Image name: validarTerminosYCondiciones-13.png
+2022-ene-09 00:19:26 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validarTerminosYCondiciones . Image name: validarTerminosYCondiciones-14.png
+2022-ene-09 00:19:28 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validarTerminosYCondiciones . Image name: validarTerminosYCondiciones-15.png
+2022-ene-09 00:19:30 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validarTerminosYCondiciones . Image name: validarTerminosYCondiciones-16.png
+2022-ene-09 00:19:32 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validarTerminosYCondiciones . Image name: validarTerminosYCondiciones-17.png
+2022-ene-09 00:19:32 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validarTerminosYCondiciones . Image name: validarTerminosYCondiciones-18.png
+2022-ene-09 00:19:33 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5' , Extracted Text : 'You must agree to the terms of service before continuing.''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validarTerminosYCondiciones . Image name: validarTerminosYCondiciones-19.png
+2022-ene-09 00:19:33 [Test] INFO  : You must agree to the terms of service before continuing.
+2022-ene-09 00:19:33 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5' , Extracted Text : 'You must agree to the terms of service before continuing.''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\validarTerminosYCondiciones . Image name: validarTerminosYCondiciones-20.png
+2022-ene-09 00:19:33 [Test] INFO  : ***** HA FINALIZADO LA PRUEBA******comprarProductos-validarTerminosYCondiciones
+2022-ene-09 00:19:34 [Test] INFO  : ***** HA FINALIZADO LA PRUEBA******comprarProductos-validarTerminosYCondiciones
+2022-ene-09 00:19:34 [Test] INFO  : ***** HA FINALIZADO LA PRUEBA******comprarProductos-validarTerminosYCondiciones
+2022-ene-09 00:19:41 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'crearNuevaCuenta' , Url : 'http://automationpractice.com/index.php''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\crearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-0.png
+2022-ene-09 00:19:43 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\crearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-1.png
+2022-ene-09 00:19:44 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'emilia.arteaga@sofmail.com' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\crearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-2.png
+2022-ene-09 00:19:45 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\crearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-3.png
+2022-ene-09 00:19:48 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'id: uniform-id_gender1' , Timeout : '10''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\crearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-4.png
+2022-ene-09 00:19:49 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Marcos' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\crearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-5.png
+2022-ene-09 00:19:49 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Bañuelos' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\crearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-6.png
+2022-ene-09 00:19:50 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '66808346' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\crearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-7.png
+2022-ene-09 00:19:51 [Test] COMPLETED : Action 'selectByPartialText' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Partial Text : '17' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\crearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-8.png
+2022-ene-09 00:19:52 [Test] COMPLETED : Action 'selectByValue' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Value : '3' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\crearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-9.png
+2022-ene-09 00:19:53 [Test] COMPLETED : Action 'selectByPartialText' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Partial Text : '1984' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\crearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-10.png
+2022-ene-09 00:19:54 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Prolongación Luis Abreu 12, Móstoles, Com 05099' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\crearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-11.png
+2022-ene-09 00:19:54 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Móstoles' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\crearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-12.png
+2022-ene-09 00:19:55 [Test] COMPLETED : Action 'selectByText' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Text : 'Florida' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\crearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-13.png
+2022-ene-09 00:19:56 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '92646' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\crearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-14.png
+2022-ene-09 00:19:56 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '3244793885' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\crearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-15.png
+2022-ene-09 00:19:59 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\crearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-16.png
+2022-ene-09 00:19:59 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5' , Extracted Text : 'Marcos Bañuelos''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\crearNuevaCuenta\CrearUnaCuenta . Image name: CrearUnaCuenta-17.png
+2022-ene-09 00:20:00 [Test] INFO  : ***** HA FINALIZADO LA PRUEBA******crearNuevaCuenta-CrearUnaCuenta
+2022-ene-09 00:20:00 [Test] INFO  : ***** HA FINALIZADO LA PRUEBA******crearNuevaCuenta-CrearUnaCuenta
+2022-ene-09 00:20:00 [Test] INFO  : ***** HA FINALIZADO LA PRUEBA******crearNuevaCuenta-CrearUnaCuenta
+2022-ene-09 00:20:08 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'comprarProductos' , Url : 'http://automationpractice.com/index.php''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\EnviarMensajesConCamposObligatorios . Image name: EnviarMensajesConCamposObligatorios-0.png
+2022-ene-09 00:20:09 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\EnviarMensajesConCamposObligatorios . Image name: EnviarMensajesConCamposObligatorios-1.png
+2022-ene-09 00:20:10 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\EnviarMensajesConCamposObligatorios . Image name: EnviarMensajesConCamposObligatorios-2.png
+2022-ene-09 00:20:11 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'leighann.heller@gmail.com' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\EnviarMensajesConCamposObligatorios . Image name: EnviarMensajesConCamposObligatorios-3.png
+2022-ene-09 00:20:12 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Non aut qui dolor. Sed corporis dolor quos nihil. Cumque et voluptatem quae. At omnis in.' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\EnviarMensajesConCamposObligatorios . Image name: EnviarMensajesConCamposObligatorios-4.png
+2022-ene-09 00:20:15 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\EnviarMensajesConCamposObligatorios . Image name: EnviarMensajesConCamposObligatorios-5.png
+2022-ene-09 00:20:15 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5' , Extracted Text : 'Your message has been successfully sent to our team.''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\EnviarMensajesConCamposObligatorios . Image name: EnviarMensajesConCamposObligatorios-6.png
+2022-ene-09 00:20:15 [Test] INFO  : ***** HA FINALIZADO LA PRUEBA******comprarProductos-EnviarMensajesConCamposObligatorios
+2022-ene-09 00:20:15 [Test] INFO  : ***** HA FINALIZADO LA PRUEBA******comprarProductos-EnviarMensajesConCamposObligatorios
+2022-ene-09 00:20:17 [Test] INFO  : ***** HA FINALIZADO LA PRUEBA******comprarProductos-EnviarMensajesConCamposObligatorios
+2022-ene-09 00:20:23 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'comprarProductos' , Url : 'http://automationpractice.com/index.php''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\enviarCuerpoDeMensajeVacío . Image name: enviarCuerpoDeMensajeVacío-0.png
+2022-ene-09 00:20:25 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\enviarCuerpoDeMensajeVacío . Image name: enviarCuerpoDeMensajeVacío-1.png
+2022-ene-09 00:20:26 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\enviarCuerpoDeMensajeVacío . Image name: enviarCuerpoDeMensajeVacío-2.png
+2022-ene-09 00:20:27 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'janise.considine@yahoo.com' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\enviarCuerpoDeMensajeVacío . Image name: enviarCuerpoDeMensajeVacío-3.png
+2022-ene-09 00:20:28 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\enviarCuerpoDeMensajeVacío . Image name: enviarCuerpoDeMensajeVacío-4.png
+2022-ene-09 00:20:28 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5' , Extracted Text : 'The message cannot be blank.''.
+		Evidence saved at: D:\Documendos-pc\sofka\Automatizacion_QA\automatizacion\automationPracticeFrameworkSofka\src\main\resources\evidences\comprarProductos_2022-01-09T00-18\comprarProductos\enviarCuerpoDeMensajeVacío . Image name: enviarCuerpoDeMensajeVacío-5.png
+2022-ene-09 00:20:28 [Test] INFO  : ***** HA FINALIZADO LA PRUEBA******comprarProductos-enviarCuerpoDeMensajeVacío
+2022-ene-09 00:20:28 [Test] INFO  : ***** HA FINALIZADO LA PRUEBA******comprarProductos-enviarCuerpoDeMensajeVacío
+2022-ene-09 00:20:29 [Test] INFO  : ***** HA FINALIZADO LA PRUEBA******comprarProductos-enviarCuerpoDeMensajeVacío
