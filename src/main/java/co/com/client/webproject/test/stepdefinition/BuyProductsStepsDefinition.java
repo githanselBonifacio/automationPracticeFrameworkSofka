@@ -8,7 +8,6 @@ import co.com.sofka.test.actions.WebAction;
 
 import co.com.sofka.test.evidence.reports.Assert;
 import co.com.sofka.test.evidence.reports.Report;
-import co.com.sofka.test.exceptions.WebActionsException;
 import cucumber.api.Scenario;
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
@@ -52,7 +51,8 @@ public class BuyProductsStepsDefinition extends GeneralSetup{
 
     @Entonces("la suma de los precios debe ser igual a la calculada por el sistema")
     public void laSumaDeLosPreciosDebeSerIgualALaCalculadaPorElSistema() {
-
+        Report.reportInfo("La suma de los productos más envío es: "+buyProductController.getTotalPrice());
+        Report.reportInfo("El precio total calculado por el sistema es: "+buyProductController.getTotalPriceCalculedSistem());
         Assert.Hard
                 .thatIsEqual(
                         buyProductController.getTotalPrice(),
@@ -66,13 +66,12 @@ public class BuyProductsStepsDefinition extends GeneralSetup{
     }
     @Entonces("se mostrará un mensaje de error")
     public void seMostraraUnMensajeDeError(){
-        Report.reportInfo(buyProductController.gotErrorMessage());
         Assert.Hard
                 .thatIsEqual(MESSAGE_ERROR_TERMS_AND_CONDITIONS,
                         buyProductController.gotErrorMessage());
     }
     @After
-    public void tearDown() throws WebActionsException {
+    public void tearDown()  {
 
         if (webAction != null && webAction.getDriver() != null)
             webAction.closeBrowser();

@@ -1,6 +1,6 @@
 # language: es
-@FeatureName:comprarProductos
-Característica: Comprar productos
+@FeatureName:enviarMensajeContactUs
+Característica: Comunicarse con el equipo de trabajo
   yo como cliente
   Quiero poder enviar mensajes al equipo de atención al cliente
   Para que sepan mis opiniones.

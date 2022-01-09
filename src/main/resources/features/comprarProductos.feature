@@ -1,7 +1,7 @@
 # language: es
 @FeatureName:comprarProductos
 Característica: Comprar productos
-    Como cliente en línea
+    Como cliente
     quiero poder comprar en linea
     para no salir  de casa.
 
