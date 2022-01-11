@@ -71,8 +71,8 @@ public class BuyProductController {
             By btnAddCart = By.xpath(String.format(addCart,index));
 
 
-            webAction.waitForVisibility(webAction.getDriver().findElement(cardProduct),false);
-            webAction.moveTo(webAction.getDriver().findElement(cardProduct),false);
+            webAction.waitForVisibility(webAction.getDriver().findElement(cardProduct),true);
+            webAction.moveTo(webAction.getDriver().findElement(cardProduct),true);
             webAction.click(webAction.getDriver().findElement(btnAddCart),true);
 
             webAction.click(myAccountPage.getBtnContinueShopping(),true);
@@ -103,9 +103,9 @@ public class BuyProductController {
 
             double totalShipping = cleanDouble(
                                              webAction.getText(
-                                             myAccountPage.getTotalShipping(),false));
+                                             myAccountPage.getTotalShipping(),true));
 
-            webAction.waitForVisibility(myAccountPage.getPriceTotal(),false);
+            webAction.waitForVisibility(myAccountPage.getPriceTotal(),true);
             List<WebElement> priceProducts = webAction.getDriver()
                                              .findElements(myAccountPage.getPriceProducts());
 
@@ -126,7 +126,7 @@ public class BuyProductController {
         double priceTotal=0.0;
         try {
             priceTotal= cleanDouble(
-                    webAction.getText(myAccountPage.getPriceTotal(),false));
+                    webAction.getText(myAccountPage.getPriceTotal(),true));
 
             logger.info("El precio calculado por el sistema fue <"+priceTotal+">");
         } catch (WebActionsException e) {
