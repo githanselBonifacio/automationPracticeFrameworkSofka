@@ -15,7 +15,7 @@ import java.util.List;
 
 import static co.com.client.webproject.test.helpers.CategoryClothes.*;
 import static co.com.client.webproject.test.helpers.ChoiseOption.choiseOption;
-import static co.com.client.webproject.test.helpers.ToolsNumber.chooseNumberRamdon;
+import static co.com.client.webproject.test.helpers.ToolsNumber.*;
 import static co.com.client.webproject.test.helpers.UtilFile.cleanDouble;
 
 
@@ -113,8 +113,7 @@ public class BuyProductController {
                 webElement.getText();
                 sum+= cleanDouble(webElement.getText());
             }
-            logger.info("Suma de precio fue <"+sum+">");
-            return sum+totalShipping;
+            return reduceDecimal(sum+totalShipping,TWO_DECIMALS);
 
         } catch (WebActionsException e) {
             Report.reportFailure("Ocurrio un error al intentar obtener valores de la tabla de resumen de productos", e);
@@ -132,7 +131,7 @@ public class BuyProductController {
         } catch (WebActionsException e) {
             Report.reportFailure("Ocurrio un error al intentar obtener valores de la tabla de resumen de productos", e);
         }
-        return priceTotal;
+        return reduceDecimal(priceTotal,TWO_DECIMALS);
     }
 
     public void goToShippingSection(){
